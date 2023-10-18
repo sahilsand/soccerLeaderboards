@@ -24,8 +24,6 @@ After this you would be able to access backend at http://localhost:3001. To veri
 
 The response should be `{"success": true, "version": "1.0"}`
 
-**IMPORTANT:** If you need to change default backend port, make sure to revert them back to 3001 before submitting the solution as otherwise the grading system might not detect the backend server and you will lose points.
-
 ## Running Frontend Application
 
 The following command will run the SPA in local dev server:
